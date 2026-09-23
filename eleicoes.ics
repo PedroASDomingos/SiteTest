@@ -1,0 +1,13 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Candidatura Pedro Mascarenhas Santos//Belenenses 2026//PT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:eleicoes-belenenses-2026-10-24@candidatura
+DTSTAMP:20260923T090000Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:Eleições do Belenenses 2026
+DESCRIPTION:Mandato 2026–2030. Horário e local de votação a divulgar pelos órgãos competentes do Clube.
+END:VEVENT
+END:VCALENDAR
